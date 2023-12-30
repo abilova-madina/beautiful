@@ -18,7 +18,7 @@ header {
   padding: 20px 0;
 }
 header .imgbox {
-  width: 40px;
+  width: 35px;
 }
 header nav a {
   font-size: 20px;
@@ -34,7 +34,7 @@ header nav .home-color {
 }
 #beautiful .box h1 {
   font-weight: 700;
-  font-size: 68px;
+  font-size: 60px;
   margin-right: 80px;
 }
 #beautiful .box span {
@@ -42,19 +42,19 @@ header nav .home-color {
 }
 #beautiful .box h5 {
   color: #676f8b;
-  font-size: 20px;
+  font-size: 18px;
   margin: 25px 75px 50px 0;
   line-height: 1.3;
 }
 #beautiful .box .btn {
   padding: 13px 30px;
-  font-size: 20px;
+  font-size: 18px;
   border-radius: 5px;
   background-color: #38b6c1;
   color: white;
 }
 #beautiful .box .imgbox {
-  width: 120px;
+  width: 140px;
   margin: 20px 0 10px;
 }
 #beautiful .box h4 {
@@ -72,7 +72,7 @@ header nav .home-color {
 }
 #thehome .textbox h5 {
   color: #676f8b;
-  font-size: 20px;
+  font-size: 18px;
   margin: 25px 75px 50px 0;
   line-height: 1.3;
 }
@@ -84,30 +84,30 @@ header nav .home-color {
   border-radius: 5px;
 }
 #thehome .imgbox {
-  width: 520px;
+  width: 500px;
 }
 
 #works h1 {
   font-weight: 700;
-  font-size: 60px;
+  font-size: 55px;
   color: #38b6c1;
   margin-bottom: 60px;
 }
 #works .box .imgbox {
-  width: 350px;
+  width: 300px;
 }
 #works .box .textbox {
   padding: 35px 55px;
 }
 #works .box .textbox h2 {
   font-weight: 700;
-  font-size: 25px;
+  font-size: 22px;
   margin-bottom: 9px;
 }
 #works .box .textbox h4 {
-  font-size: 20px;
+  font-size: 18px;
   color: #676f8b;
-  line-height: 1.3;
+  line-height: 1.4;
 }
 
 #order .imgbox {

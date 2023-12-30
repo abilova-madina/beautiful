@@ -132,50 +132,17 @@ header nav .home-color {
   border-radius: 5px;
 }
 
-#browse {
-  background-color: #f1f8f9;
-}
-#browse .row .one {
-  background-color: white;
-  border-radius: 10px;
-  padding-bottom: 15px;
-}
-#browse .row .two {
-  background-color: white;
-  border-radius: 10px;
-  max-resolution: 30px;
-}
-#browse .row .three {
-  background-color: white;
-  border-radius: 10px;
-  padding-bottom: 50px;
-}
-#browse .row .four {
-  background-color: white;
-  border-radius: 10px;
-  padding-top: 20px;
-}
-#browse .row .five {
-  background-color: white;
-  border-radius: 10px;
-  padding-bottom: 15px;
-}
-#browse .row .six {
-  background-color: white;
-  border-radius: 10px;
-  padding-bottom: 15px;
-}
 #browse .textbox {
   width: 500px;
   text-align: center;
 }
 #browse .textbox h1 {
   font-weight: 700;
-  font-size: 60px;
+  font-size: 55px;
   color: #3cc1d8;
 }
 #browse .textbox h4 {
-  font-size: 20px;
+  font-size: 18px;
   color: #6c7480;
   margin: 20px 0;
   line-height: 1.2;
@@ -185,7 +152,7 @@ header nav .home-color {
   text-decoration-line: underline;
 }
 #browse .btn {
-  font-size: 18px;
+  font-size: 15px;
   border: 0.5px solid #bdbdbd;
   padding: 15px 46px;
   margin: 0 20px;
@@ -199,7 +166,7 @@ header nav .home-color {
   padding: 30px;
 }
 #browse .box .imgbox {
-  width: 150px;
+  width: 140px;
   border-radius: 10px;
 }
 #browse .box .textbox {
@@ -208,16 +175,16 @@ header nav .home-color {
   margin-left: 20px;
 }
 #browse .box .textbox .minibox h2 {
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 700;
 }
 #browse .box .textbox .minibox h5 {
   color: #38b6c1;
-  font-size: 18px;
+  font-size: 15px;
 }
 #browse .box .textbox p {
   margin: 15px 0;
-  font-size: 18px;
+  font-size: 15px;
   line-height: 1.2;
   color: rgba(35, 47, 66, 0.5215686275);
 }
@@ -230,7 +197,7 @@ header nav .home-color {
   width: 50px;
 }
 #browse .box .textbox .add .btn {
-  background-color: #38b6c1;
+  background-color: #3cc1d8;
   color: white;
   padding: 7px 20px;
 }

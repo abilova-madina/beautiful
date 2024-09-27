@@ -14,18 +14,30 @@ section {
   padding: 80px 0;
 }
 
-header {
-  padding: 20px 0;
-}
 header .imgbox {
   width: 35px;
 }
-header nav a {
+header .menu {
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 8%;
+  position: fixed;
+  z-index: 2;
+  width: 100%;
+  height: 80px;
+  left: 0%;
+  background-color: white;
+}
+header .menu nav a {
   font-size: 20px;
   color: #8c8999;
   margin-right: 30px;
 }
-header nav .home-color {
+header .menu nav a:hover {
+  cursor: pointer;
+  color: white;
+}
+header .menu .home-color {
   color: #38b6c1;
 }
 @media screen and (max-width: 768px) {
@@ -57,6 +69,12 @@ header nav .home-color {
   border-radius: 5px;
   background-color: #38b6c1;
   color: white;
+}
+#beautiful .box .btn:hover {
+  opacity: 70%;
+}
+#beautiful .box .btn i {
+  cursor: pointer;
 }
 #beautiful .box .imgbox {
   width: 140px;
@@ -114,6 +132,12 @@ header nav .home-color {
   color: white;
   font-size: 20px;
   border-radius: 5px;
+}
+#thehome .textbox .btn:hover {
+  opacity: 70%;
+}
+#thehome .textbox .btn i {
+  cursor: pointer;
 }
 #thehome .imgbox {
   width: 500px;
@@ -187,6 +211,12 @@ header nav .home-color {
   padding: 13px 34px;
   border-radius: 5px;
 }
+#order .textbox .btn:hover {
+  opacity: 70%;
+}
+#order .textbox .btn i {
+  cursor: pointer;
+}
 
 #browse .textbox {
   width: 500px;
@@ -217,6 +247,12 @@ header nav .home-color {
 #browse .bgc {
   background-color: #38b6c1;
   color: white;
+}
+#browse .btn:hover, #browse .bgc:hover {
+  opacity: 70%;
+}
+#browse .btn i, #browse .bgc i {
+  cursor: pointer;
 }
 #browse .box {
   padding: 30px;
@@ -282,6 +318,12 @@ header nav .home-color {
   background-color: #38b6c1;
   padding: 13px 34px;
 }
+#callour .textbox .btn:hover {
+  opacity: 70%;
+}
+#callour .textbox .btn i {
+  cursor: pointer;
+}
 #callour .imgbox {
   width: 520px;
 }
@@ -302,6 +344,12 @@ header nav .home-color {
   background-color: white;
   padding: 10px 30px;
   margin: 30px 0 0 40px;
+}
+#support .textbox .btn:hover {
+  opacity: 70%;
+}
+#support .textbox .btn i {
+  cursor: pointer;
 }
 #support .bgc {
   background-color: #38b6c1;
